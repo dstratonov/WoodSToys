@@ -5,7 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/woodSToys/WoodSToys/WoodSToys/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_pushing.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_crouch.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_jump.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_walking.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_idle.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_pushing_idle_left.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_pushing_idle_right.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_crouch_idle_left.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_crouch_idle_right.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_jump_up.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_jump_down.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_falling.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/KO/R387FON4T3CWMR9W9OAGFF.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_PhysicsAsset.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Skeleton.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Material_001.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/TD_Checker.uasset"
 			]
 		}
 	]
