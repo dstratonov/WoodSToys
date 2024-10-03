@@ -5,6 +5,31 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/ThirdPerson/Blueprints/BP_MainCharacter1.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/ThirdPerson/Maps/1Level.umap",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_crouch.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_crouch_idle_left.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_crouch_idle_right.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_falling.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_idle.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_jump.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_jump_down.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_jump_up.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_pushing.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_pushing_idle_left.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_pushing_idle_right.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Anim_main_character_walking.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_PhysicsAsset.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Main_character_rig_Skeleton.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Material_001.uasset",
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/TD_Checker.uasset",
 				"D:/woodSToys/WoodSToys/WoodSToys/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_pushing.uasset",
 				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/MainCharacter/Main_character_rig_Anim_main_character_crouch.uasset",
@@ -496,8 +521,7 @@
 				"D:/woodSToys/WoodSToys/WoodSToys/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"D:/woodSToys/WoodSToys/WoodSToys/Content/StarterContent/Audio/Starter_Birds01.uasset",
 				"D:/woodSToys/WoodSToys/WoodSToys/Content/StarterContent/Audio/Starter_Wind06.uasset",
-				"D:/woodSToys/WoodSToys/WoodSToys/Content/StarterContent/Audio/Starter_Wind05.uasset",
-				"D:/woodSToys/WoodSToys/WoodSToys/Content/ThirdPerson/Blueprints/BP_MainCharacter1.uasset"
+				"D:/woodSToys/WoodSToys/WoodSToys/Content/StarterContent/Audio/Starter_Wind05.uasset"
 			]
 		}
 	]
